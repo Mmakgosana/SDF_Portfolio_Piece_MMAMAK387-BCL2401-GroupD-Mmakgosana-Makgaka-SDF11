@@ -14,3 +14,6 @@ Creative Design Choices: I think I have adhered to the components objectives, I 
 
 Overall Learning Experience I have enjoyed building the landing pages, the skills, the new experience, observing each component coming together was really nice to observe. 
 And in future I would honestly like to build more projects that are similar to this one.
+
+Presentation Slides:https://docs.google.com/presentation/d/1V4xfWTDETZfYX79kzgtJBAE1GF7RqBmRCkKD0qaF7Vs/edit?pli=1#slide=id.g1f2f174e77e_0_333  
+Presentation Video: https://www.loom.com/share/451b5cdb8fa34817a9976eeec2feeca8?sid=26621d08-71b0-4875-bd8a-bfe669d5a1f8
